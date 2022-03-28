@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Devrim Mehmet
-#### An Engineer in living in Turkey in Yalova for now!
+#### An Engineer in living in Turkey in Kastamonu for now!
 
-- 🔭 I’m currently working on DZKK-TSK(Reserve Officer)
 - 🌱 I’m currently learning c# && .NET Core
 - 📫 How to reach me: devrimmehmet@gmail.com
 
