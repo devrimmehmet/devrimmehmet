@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Devrim Mehmet
-#### An Engineer in living in Turkey in Kastamonu for now!
+#### An Engineer in living in Turkey in İstanbul for now!
 
 - 🌱 I’m currently learning c# & .NET Core & Sql & Html & Css & Js & React
 - 📫 How to reach me: devrimmehmet@gmail.com
