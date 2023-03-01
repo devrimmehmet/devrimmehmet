@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Devrim Mehmet
 #### An Engineer in living in Turkey in İstanbul for now!
 
-- 🌱 I’m currently learning c# & .NET Core & Sql & Html & Css & Js & React
+- 🌱 I’m currently learning c# & .NET Core & Mssql & Html & Css & Js & React & PHP & Mysql
 - 📫 How to reach me: devrimmehmet@gmail.com
 
 ### Connect with me:
@@ -26,6 +26,12 @@
 <a href="#"><img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/HayatOkulum/Archive/main/Images/javascript-logo.png" /></a>
 
 <a href="#"><img align="left" alt=".Net Core" width="26px" src="https://raw.githubusercontent.com/HayatOkulum/Archive/main/Images/NET_Core_Logo.png" /></a>
+
+<a href="#"><img align="left" alt="Mssql" width="26px" src="https://raw.githubusercontent.com/HayatOkulum/Archive/main/Images/mssql-logo.png" /></a>
+
+<a href="#"><img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/HayatOkulum/Archive/main/Images/php-logo.png" /></a>
+
+<a href="#"><img align="left" alt="Mysql" width="26px" src="https://raw.githubusercontent.com/HayatOkulum/Archive/main/Images/mysql-logo.png" /></a>
 
 <a href="#"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
 
