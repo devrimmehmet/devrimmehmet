@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Devrim Mehmet
 #### An Engineer in living in Turkey in İstanbul for now!
 
-- 🌱 I’m currently learning c# & .NET Core & Mssql & Html & Css & Js & React & PHP & Mysql
+- 🌱 I’m currently learning c# & .NET Core & Mssql & Html & Css & Js & PHP & Mysql
 - 📫 How to reach me: devrimmehmet@gmail.com
 
 ### Connect with me:
